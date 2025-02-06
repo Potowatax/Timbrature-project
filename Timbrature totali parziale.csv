@@ -1,0 +1,87 @@
+A. S.;Orario;Modalità;Giorno;Data;Verso;IN;OUT;Causale
+24/25;Sospensione;Normale;lunedì;02/09/2024;;07:41;14:44;
+24/25;Sospensione;Normale;martedì;03/09/2024;;07:34;14:46;
+24/25;Sospensione;Normale;mercoledì;04/09/2024;;07:40;15:01;Straordinario
+24/25;Sospensione;Normale;giovedì;05/09/2024;;07:39;14:48;
+24/25;Sospensione;Normale;venerdì;06/09/2024;;07:32;14:44;
+24/25;Sospensione;Normale;lunedì;09/09/2024;;07:40;14:52;
+24/25;Sospensione;Normale;martedì;10/09/2024;;07:39;13:02;Permesso per servizio
+24/25;Sospensione;Normale;mercoledì;11/09/2024;;07:37;15:46;Straordinario
+24/25;Sospensione;Normale;giovedì;12/09/2024;;07:39;14:51;
+24/25;Sospensione;Normale;venerdì;13/09/2024;;07:42;14:54;
+24/25;Didattica;Normale;lunedì;16/09/2024;;07:43;14:55;
+24/25;Didattica;Normale;lunedì;16/09/2024;;15:25;17:10;
+24/25;Didattica;Normale;martedì;17/09/2024;;07:39;14:24;
+24/25;Didattica;Normale;mercoledì;18/09/2024;;07:37;14:22;
+24/25;Didattica;Normale;giovedì;19/09/2024;;07:42;16:19;Straordinario
+24/25;Didattica;Normale;venerdì;20/09/2024;;07:40;14:25;
+24/25;Didattica;Normale;lunedì;23/09/2024;;07:30;14:42;
+24/25;Didattica;Normale;lunedì;23/09/2024;;15:12;17:00;
+24/25;Didattica;Normale;martedì;24/09/2024;;07:37;14:22;
+24/25;Didattica;Normale;mercoledì;25/09/2024;;07:37;14:22;
+24/25;Didattica;Normale;giovedì;26/09/2024;;07:38;14:23;
+24/25;Didattica;Normale;venerdì;27/09/2024;;07:40;14:24;
+24/25;Didattica;Normale;lunedì;30/09/2024;;07:41;14:30;
+24/25;Didattica;Normale;martedì;01/10/2024;;07:39;14:40;
+24/25;Didattica;Normale;mercoledì;02/10/2024;;07:39;14:28;
+24/25;Didattica;Normale;mercoledì;09/10/2024;;07:37;14:26;
+24/25;Didattica;Rientro;venerdì;04/10/2024;;07:41;13:42;Pausa pranzo
+24/25;Didattica;Rientro;venerdì;04/10/2024;;14:06;17:07;Pausa pranzo
+24/25;Didattica;Rientro;lunedì;07/10/2024;;07:40;14:13;Pausa pranzo
+24/25;Didattica;Rientro;lunedì;07/10/2024;;14:33;17:02;Pausa pranzo
+24/25;Didattica;Normale;martedì;08/10/2024;;07:37;15:03;
+24/25;Didattica;Normale;mercoledì;09/10/2024;;07:38;14:29;
+24/25;Didattica;Normale;giovedì;10/10/2024;;07:41;14:30;
+24/25;Didattica;Normale;venerdì;11/10/2024;;07:39;13:44;Straordinario
+24/25;Didattica;Normale;venerdì;11/10/2024;;13:44;17:58;Straordinario
+24/25;Didattica;Rientro;lunedì;14/10/2024;;07:40;14:22;
+24/25;Didattica;Rientro;lunedì;14/10/2024;;14:44;17:10;
+24/25;Didattica;Normale;martedì;15/10/2024;;07:37;15:02;
+24/25;Didattica;Normale;mercoledì;16/10/2024;;07:40;14:34;
+24/25;Didattica;Normale;giovedì;17/10/2024;;07:41;14:36;
+24/25;Didattica;Normale;venerdì;18/10/2024;;07:39;14:36;
+24/25;Didattica;Rientro;lunedì;21/10/2024;;07:41;14:17;
+24/25;Didattica;Rientro;lunedì;21/10/2024;;14:41;17:00;
+24/25;Didattica;Normale;martedì;22/10/2024;;07:43;15:04;
+24/25;Didattica;Normale;mercoledì;23/10/2024;;07:42;14:35;
+24/25;Didattica;Normale;giovedì;24/10/2024;;07:39;13:52;
+24/25;Didattica;Normale;giovedì;24/10/2024;;14:20;16:08;
+24/25;Didattica;Normale;venerdì;25/10/2024;;07:39;14:30;
+24/25;Didattica;Rientro;lunedì;28/10/2024;;07:39;17:02;Assemblea
+24/25;Didattica;Normale;martedì;29/10/2024;;10:37;15:03;
+24/25;Didattica;Normale;martedì;29/10/2024;;16:48;19:07;
+24/25;Didattica;Normale;mercoledì;30/10/2024;;07:52;14:47;
+24/25;Didattica;Normale;giovedì;31/10/2024;;07:36;14:35;
+24/25;Didattica;Rientro;lunedì;04/11/2024;;07:38;17:00;
+24/25;Didattica;Normale;martedì;05/11/2024;;07:41;14:42;
+24/25;Didattica;Normale;mercoledì;06/11/2024;;07:39;14:33;
+24/25;Didattica;Normale;giovedì;07/11/2024;;07:37;14:33;
+24/25;Didattica;Normale;venerdì;08/11/2024;;07:35;14:32;
+24/25;Didattica;Rientro;lunedì;11/11/2024;;07:40;17:03;
+24/25;Didattica;Normale;martedì;12/11/2024;;07:39;14:35;
+24/25;Didattica;Normale;mercoledì;13/11/2024;;07:39;14:32;
+24/25;Didattica;Normale;giovedì;14/11/2024;;07:42;14:37;
+24/25;Didattica;Normale;venerdì;15/11/2024;;07:36;14:31;
+24/25;Didattica;Rientro;lunedì;18/11/2024;;07:40;17:04;
+24/25;Didattica;Normale;martedì;19/11/2024;;07:36;13:22;
+24/25;Didattica;Normale;mercoledì;20/11/2024;;07:42;15:50;Straordinario
+24/25;Didattica;Normale;giovedì;21/11/2024;;07:39;14:37;
+24/25;Didattica;Normale;venerdì;22/11/2024;;07:38;17:00;Straordinario
+24/25;Didattica;Rientro;lunedì;25/11/2024;;07:40;14:52;
+24/25;Didattica;Rientro;lunedì;25/11/2024;;15:22;16:08;
+24/25;Didattica;Normale;martedì;26/11/2024;;07:41;14:38;
+24/25;Didattica;Normale;mercoledì;27/11/2024;;07:41;16:08;Straordinario
+24/25;Didattica;Normale;giovedì;28/11/2024;;07:42;14:35;
+24/25;Didattica;Normale;venerdì;29/11/2024;;07:30;15:03;Straordinario
+24/25;Didattica;Normale;lunedì;02/12/2024;;07:42;14:34;
+24/25;Didattica;Normale;martedì;03/12/2024;;07:40;14:03;
+24/25;Didattica;Normale;mercoledì;04/12/2024;;07:38;15:03;Straordinario
+24/25;Didattica;Normale;giovedì;05/12/2024;;00:00;14:35;
+24/25;Didattica;Rientro;venerdì;06/12/2024;;07:39;17:01;
+24/25;Didattica;Rientro;lunedì;09/12/2024;;07:43;08:12;
+24/25;Didattica;Rientro;lunedì;09/12/2024;;09:02;17:04;
+24/25;Didattica;Normale;martedì;10/12/2024;;07:45;13:05;
+24/25;Didattica;Normale;mercoledì;11/12/2024;;07:41;17:00;Straordinario
+24/25;Didattica;Normale;giovedì;12/12/2024;;08:24;15:35;Straordinario
+24/25;Didattica;Normale;venerdì;13/12/2024;;07:39;14:56;Straordinario
+24/25;OpenDay;Ridotto;sabato;14/12/2024;;07:00;14:12;Open day
