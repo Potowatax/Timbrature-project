@@ -1,0 +1,51 @@
+# Time intervals of activities during the school year
+01/09/2024-08/09/2024: Sospensione attività didattica
+09/09/2024-25/10/2024: Attività didattica
+26/10/2024-26/10/2024: Greenday
+27/10/2024-06/12/2024: Attività didattica
+07/12/2024-07/12/2024: Openday
+08/12/2024-13/12/2024: Attività didattica
+14/12/2024-14/12/2024: Openday
+15/12/2024-20/12/2024: Attività didattica
+21/12/2024-06/01/2025: Sospensione attività didattica
+07/01/2025-10/01/2025: Attività didattica
+11/01/2025-11/01/2025: Openday
+12/01/2025-17/01/2025: Attività didattica
+18/01/2025-18/01/2025: Openday
+19/01/2025-16/04/2025: Attività didattica
+17/04/2025-22/04/2025: Sospensione attività didattica
+23/04/2025-30/06/2025: Attività didattica
+01/07/2025-31/08/2025: Sospensione attività didattica
+
+# Schedules per day of the week with suspension of the teaching activity
+Monday: 07:30-14:42
+Tuesday: 07:30-14:42
+Wednesday: 07:30-14:42
+Thursday: 07:30-14:42
+Friday: 07:30-14:42 
+Saturday: Rest
+Sunday: Rest
+
+# Day scheduled for afternoon return (necessary to complete the 36 hours per week)
+Lunedì
+
+# List of causes that involve a negative calculation within the working day. The maximum hours granted from September 1 to August 31 of each year, are shown after the denomination separated by ;
+Ritardo
+Permesso
+Permesso personale; 36
+Sciopero
+
+# List of causes that involve a positive calculation within the working day
+Straordinario
+Recupero
+
+# List of causes that involve compensation for hours not worked within the working day
+Permesso per servizio
+
+# Other types of reasons that involve compensation for hours not worked per school year (from 1/ September to 31 August of each year). The maximum hours are shown after the denomination separated by ;
+Assemblea; 10
+Legge 104; 18
+Visita specialistica; 36
+Permesso studio; 150
+
+# Lunch break: the lunch break is mandatory if within the day 7 hours and 12 minutes of work activity are exceeded without an interruption of at least 30 minutes; if there are intermediate stamps with negative calculation characteristics, the deduction of the lunch break is triggered after the 7 hours and 12 minutes calculated from the beginning of the activities calculated from the last incoming stamping. Only if this interruption, indicated with PR BREAK within the timbrature.txt file, is reported in the reasons, it should not be deducted from the hours worked in the day. Otherwise, 30 minutes will have to be taken away from the hours worked in the day. If the BREAK lasts less than 30 minutes, the missing minutes must be automatically added until the scheduled 30 minutes are completed. If the clocking shows a break of more than 30 minutes, the minutes beyond the thirtieth, must be calculated as a permit to be recovered within the day. If, in the outgoing reasons, the wording RECOVERY is entered with exceeding 7 hours and 12 minutes daily, the lunch break is calculated only if 8 hours of consecutive work are exceeded (i.e. without intermediate negative stamps).

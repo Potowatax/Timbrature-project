@@ -1,0 +1,23 @@
+# Intervalli di date e attività
+01/09-08/09: Sospensione
+09/09-20/12: Didattica
+21/12-06/01: Sospensione
+07/01-16/04: Didattica
+17/04-22/04: Sospensione
+23/04-30/06: Didattica
+01/07-31/08: Sospensione
+
+# Orari settimanali per SOSPENSIONE
+07:30-14:42
+
+# Orari settimanali per DIDATTICA
+07:30-14:15
+
+# Ore da lavorare per SOSPENSIONE
+7:12
+
+# Ore da lavorare per DIDATTICA
+6:45
+
+# Ore da lavorare per il giorno di rientro
+9:00

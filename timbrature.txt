@@ -1,0 +1,314 @@
+02/09 07:41 Entrata
+02/09 14:44 Uscita
+03/09 07:34 Entrata
+03/09 14:46 Uscita
+04/09 07:40 Entrata
+04/09 15:01 Uscita 
+05/09 07:39 Entrata
+05/09 14:48 Uscita
+06/09 07:32 Entrata
+06/09 14:44 Uscita
+09/09 07:40 Entrata
+09/09 14:52 Uscita 
+10/09 07:39 Entrata
+10/09 13:02 Uscita
+11/09 07:37 Entrata
+11/09 15:46 Uscita RECUPERO
+12/09 07:39 Entrata
+12/09 14:51 Uscita
+13/09 07:42 Entrata
+13/09 14:54 Uscita
+16/09 07:43 Entrata
+16/09 14:55 Uscita PAUSA_PR
+16/09 15:25 Entrata PAUSA_PR
+16/09 17:10 Uscita
+17/09 07:39 Entrata
+17/09 14:24 Uscita
+18/09 07:37 Entrata
+18/09 14:22 Uscita
+19/09 07:42 Entrata 
+19/09 16:19 Uscita Recupero
+20/09 07:40 Entrata
+20/09 14:25 Uscita
+23/09 07:30 Entrata
+23/09 14:42 Uscita PAUSA_PR
+23/09 15:12 Entrata PAUSA_PR
+23/09 17:00 Uscita
+24/09 07:37 Entrata
+24/09 14:22 Uscita
+25/09 07:37 Entrata
+25/09 14:22 Uscita
+26/09 07:38 Entrata
+26/09 14:23 Uscita
+27/09 07:40 Entrata
+27/09 14:24 Uscita
+30/09 07:41 Entrata
+30/09 14:26 Uscita
+01/10 07:39 Entrata
+01/10 14:40 Uscita
+02/10 07:39 Entrata
+02/10 14:28 Uscita
+03/10 07:37 Entrata
+03/10 14:26 Uscita
+04/10 07:41 Entrata
+04/10 13:42 Uscita PAUSA_PR
+04/10 14:06 Entrata PAUSA_PR
+04/10 17:07 Uscita
+07/10 07:40 Entrata
+07/10 14:13 Uscita PAUSA_PR
+07/10 14:33 Entrata PAUSA_PR
+07/10 17:02 Uscita
+08/10 07:37 Entrata
+08/10 15:03 Uscita
+09/10 07:38 Entrata
+09/10 14:29 Uscita
+10/10 07:41 Entrata
+10/10 14:30 Uscita
+11/10 07:39 Entrata
+11/10 13:44 Uscita PAUSA_PR
+11/10 14:09 Entrata PAUSA_PR
+11/10 17:58 Uscita
+14/10 07:40 Entrata
+14/10 14:22 Uscita PAUSA_PR
+14/10 14:44 Entrata PAUSA_PR
+14/10 17:10 Uscita
+15/10 07:37 Entrata
+15/10 15:02 Uscita
+16/10 07:40 Entrata
+16/10 14:34 Uscita
+17/10 07:41 Entrata
+17/10 14:36 Uscita
+18/10 07:39 Entrata
+18/10 14:36 Uscita
+21/10 07:41 Entrata
+21/10 14:17 Uscita PAUSA_PR
+21/10 14:41 Entrata PAUSA_PR
+21/10 17:00 Uscita
+22/10 07:43 Entrata
+22/10 15:04 Uscita
+23/10 07:42 Entrata
+23/10 14:35 Uscita
+24/10 07:39 Entrata
+24/10 13:52 Uscita PAUSA_PR
+24/10 13:52 Entrata PAUSA_PR
+24/10 16:08 Uscita
+25/10 07:39 Entrata
+25/10 14:30 Uscita
+28/10 07:39 Entrata
+28/10 17:02 Uscita
+29/10 10:37 Entrata ASSEMBLEA
+29/10 14:22 Uscita PAUSA_PR
+29/10 16:48 Entrata PAUSA_PR
+29/10 19:07 Uscita STRAORDINARIO
+30/10 07:52 Entrata
+30/10 14:47 Uscita
+31/10 07:36 Entrata
+31/10 14:35 Uscita
+04/11 07:38 Entrata
+04/11 17:00 Uscita
+05/11 07:41 Entrata
+05/11 14:43 Uscita
+06/11 07:39 Entrata
+06/11 14:33 Uscita
+07/11 07:37 Entrata
+07/11 14:33 Uscita
+08/11 07:35 Entrata
+08/11 14:32 Uscita
+11/11 07:40 Entrata
+11/11 17:03 Uscita
+12/11 07:39 Entrata
+12/11 14:35 Uscita
+13/11 07:39 Entrata
+13/11 14:32 Uscita
+14/11 07:42 Entrata
+14/11 14:37 Uscita
+15/11 07:36 Entrata
+15/11 14:31 Uscita
+18/11 07:40 Entrata
+18/11 17:04 Uscita
+19/11 07:36 Entrata
+19/11 13:22 Uscita
+20/11 07:42 Entrata
+20/11 15:50 Uscita
+21/11 07:39 Entrata
+21/11 14:37 Uscita
+22/11 07:38 Entrata
+22/11 17:00 Uscita
+25/11 07:40 Entrate
+25/11 16:08 Uscita
+26/11 07:41 Entrata
+26/11 14:38 Uscita
+27/11 07:41 Entrata
+27/11 16:08 Uscita
+28/11 07:42 Entrata
+28/11 14:35 Uscita
+29/11 07:30 Entrata
+29/11 15:03 Uscita
+02/12 07:42 Entrata
+02/12 14:34 Uscita
+03/12 07:40 Entrata
+03/12 14:03 Uscita
+04/12 07:38 Entrata
+04/12 15:03 Uscita
+05/12 07:39 Entrata
+05/12 14:35 Uscita
+06/12 07:39 Entrata
+06/12 17:01 Uscita
+09/12 07:43 Entrata
+09/12 08:12 Uscita PERMESSO
+09/12 09:02 Entrata PERMESSO
+09/12 17:04 Uscita
+10/12 07:45 Entrata Openday
+10/12 13:05 Uscita Openday
+11/12 07:41 Entrata
+11/12 17:00 Uscita
+12/12 08:24 Entrata
+12/12 14:22 Uscita
+13/12 07:39 Entrata
+13/12 14:24 Uscita
+14/12 07:00 Entrata Openday
+14/12 14:12 Uscita Openday
+16/12 07:40 Entrata
+16/12 14:52 Uscita PAUSA_PR
+16/12 15:22 Entrata PAUSA_PR
+16/12 17:31 Uscita
+17/12 07:42 Entrata
+17/12 14:27 Uscita
+18/12 07:42 Entrata
+18/12 14:27 Uscita
+19/12 07:39 Entrata
+19/12 14:24 Uscita
+20/12 07:43 Entrata
+20/12 12:10 Uscita
+24/12 07:30 Entrata Riposo
+24/12 14:15 Uscita Riposo
+31/12 07:30 Entrata Riposo
+31/12 14:15 Uscita Riposo
+07/01 07:37 Entrata
+07/01 17:09 Uscita Formazione
+08/01 07:34 Entrata
+08/01 14:34 Uscita
+09/01 07:35 Entrata
+09/01 14:32 Uscita
+10/01 07:34 Entrata
+10/01 14:59 Uscita
+11/01 08:52 Entrata Openday
+11/01 12:45 Uscita Openday
+13/01 07:31 Entrata
+13/01 17:37 Uscita
+14/01 07:45 Entrata
+14/01 17:14 Uscita Formazione
+15/01 07:31 Entrata
+15/01 14:21 Uscita
+16/01 07:32 Entrata
+16/01 14:26 Uscita
+17/01 07:40 Entrata
+17/01 14:28 Uscita
+22/01 07:32 Entrata Formazione
+22/01 17:04 Uscita
+23/01 07:34 Entrata
+23/01 14:18 Uscita
+24/01 07:39 Entrata
+24/01 15:01 Uscita
+27/01 07:39 Entrata
+27/01 13:39 Uscita PAUSA_PR
+27/01 14:05 Entrata PAUSA_PR
+27/01 17:01 Uscita
+28/01 07:45 Entrate
+28/01 14:33 Uscita
+29/01 07:42 Entrata
+29/01 14:34 Uscita
+30/01 07:42 Entrata
+30/01 14:32 Uscita
+31/01 07:44 Entrata
+31/01 15:08 Uscita
+03/02 07:41 Entrata
+03/02 13:25 Uscita Permesso_Personale
+04/02 07:40 Entrata
+04/02 14:47 Uscita
+05/02 07:38 Entrata
+05/02 14:32 Uscita
+06/02 07:39 Entrata
+06/02 13:17 Uscita PAUSA_PR
+06/02 13:45 Entrata PAUSA_PR
+06/02 17:02 Uscita
+07/02 07:39 Entrata
+07/02 14:35 Uscita
+10/02 07:30 Entrata
+10/02 14:46 Uscita PAUSA_PR
+10/02 15:09 Entrata PAUSA_PR
+10/02 16:45 Uscita Straordinario
+11/02 07:44 Entrata
+11/02 14:17 Uscita
+12/02 07:39 Entrata
+12/02 14:32 Uscita
+13/02 07:39 Entrata
+13/02 14:49 Uscita
+14/02 11:50 Entrata
+14/02 17:08 Uscita
+17/02 07:40 Entrata
+17/02 17:06 Uscita
+18/02 07:38 Entrata
+18/02 14:31 Uscita
+19/02 07:37 Entrata
+19/02 14:31 Uscita
+20/02 07:40 Entrata
+20/02 15:30 Uscita Straordinario
+21/02 07:35 Entrata
+21/02 14:31 Uscita
+24/02 07:39 Entrata
+24/02 13:37 Uscita PAUSA_PR
+24/02 14:05 Entrata PAUSA_PR
+24/02 17:03 Uscita
+25/02 07:40 Entrata
+25/02 14:21 Uscita
+26/02 07:39 Entrata
+26/02 14:33 Uscita
+27/02 07:41 Entrata
+27/02 08:43 Uscita Permesso_per_servizio
+27/02 14:06 Entrata Permesso_per_servizio
+27/02 14:43 Uscita STRAORDINARIO
+28/02 07:39 Entrata
+28/02 09:16 Uscita PERMESSO
+28/02 10:32 Entrata PERMESSO
+28/02 15:05 Uscita
+03/03 07:29 Entrata
+03/03 13:17 Uscita Permesso personale
+04/03 07:38 Entrata
+04/03 14:41 Uscita PAUSA_PR
+04/03 15:08 Entrata PAUSA_PR
+04/03 17:01 Uscita
+05/03 07:49 Entrata
+05/03 12:31 Uscita PAUSA_PR
+05/03 12:53 Entrata PAUSA_PR
+05/03 17:08 Uscita
+06/03 07:38 Entrata
+06/03 08:41 Uscita Permesso_per_servizio
+06/03 10:26 Entrata Permesso_per_servizio
+06/03 14:34 Uscita
+07/03 07:32 Entrata
+07/03 15:03 Uscita
+10/03 07:42 Entrata
+10/03 13:28 Uscita PAUSA_PR
+10/03 13:56 Entrata PAUSA_PR
+10/03 17:05 Uscita
+11/03 07:37 Entrata
+11/03 14:50 Uscita
+12/03 07:39 Entrata
+12/03 14:31 Uscita
+13/03 07:40 Entrata 
+13/03 08:13 Usc Permesso_per_servizio
+13/03 09:34 Ent Permesso_per_servizio
+13/03 14:36 Uscita
+14/03 07:43 Entrata
+14/03 15:09 Uscita Straordinario
+17/03 07:40 Entrata
+17/03 11:29 Usc Permesso_per_servizio
+17/03 14:28 Ent Permesso_per_servizio
+17/03 17:04 Uscita
+18/03 07:40 Entrata
+18/03 14:32 Uscita
+19/03 07:41 Entrata
+19/03 16:00 Uscita Straordinario
+20/03 07:42 Entrata
+20/03 15:33 Uscita Straordinario
